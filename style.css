@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(205, 196, 140);
+  color: rgb(14, 15, 11);
+}
+#header {
+  background-color: blanchedalmond;
+}
+#id-1 {
+  font-size: 1.1rem;
+  text-align: center;
+}
+#paragraph-1 {
+  text-align: center;
+  color: black;
+}
+#golf-ball-link {
+  text-align: center;
+  color: azure;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+#img-golf-1 {
+  height: 1000px;
+}
+
+#Math_link {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
